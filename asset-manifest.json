@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/facebook-login-react/static/css/main.dec31904.css",
+    "main.js": "/facebook-login-react/static/js/main.8c743f48.js",
+    "static/js/453.8d887fc4.chunk.js": "/facebook-login-react/static/js/453.8d887fc4.chunk.js",
+    "static/media/2021_Facebook_icon.svg.png": "/facebook-login-react/static/media/2021_Facebook_icon.svg.3dd0e1e8fe22dc8e74b7.png",
+    "static/media/plus.png": "/facebook-login-react/static/media/plus.758417565358e12cdd13.png",
+    "static/media/apple-logo.svg": "/facebook-login-react/static/media/apple-logo.b078ea6775893da3362712bfd8e9c5d7.svg",
+    "static/media/google-logo.svg": "/facebook-login-react/static/media/google-logo.b026a01e3f2480e26cb3ae190884be25.svg",
+    "index.html": "/facebook-login-react/index.html",
+    "main.dec31904.css.map": "/facebook-login-react/static/css/main.dec31904.css.map",
+    "main.8c743f48.js.map": "/facebook-login-react/static/js/main.8c743f48.js.map",
+    "453.8d887fc4.chunk.js.map": "/facebook-login-react/static/js/453.8d887fc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec31904.css",
+    "static/js/main.8c743f48.js"
+  ]
+}
